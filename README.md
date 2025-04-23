@@ -1,4 +1,4 @@
-# neural-navigator
+# GraphGuide
 
 ### Organization
 
